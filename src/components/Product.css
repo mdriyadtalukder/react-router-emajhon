@@ -1,0 +1,10 @@
+.product{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.dv2{
+    background-color: white;
+    height: 500px;
+    position: sticky;
+    top: 0;
+}
